@@ -1,0 +1,9 @@
+{
+    "timestamp": "2025-04-24T10:00:00Z",
+    "temperature": 29.5,
+    "humidity": 72,
+    "soil_moisture": 40,
+    "weather": "Cloudy",
+    "irrigation_zone": "Zone A"
+  }
+  
